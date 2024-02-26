@@ -3,7 +3,7 @@
 namespace Php\Lib;
 
 class ThisisVin {
-    function syHello() {
+    function sayHello() {
         return "Hello ".rand(0, 1000);
     }
 }
